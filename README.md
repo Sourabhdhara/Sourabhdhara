@@ -1,11 +1,10 @@
-# 💫 About Me:
-  _____                      _           _     
-     / ____|                    | |         | |    
-    | (___   ___  _   _ _ __ __| |__   ___ | |__  
-     \___ \ / _ \| | | | '__/ _` | '_ \ / _ \| '_ \ 
-     ____) | (_) | |_| | | | (_| | |_) | (_| | | | |
-    |_____/ \___/ \__,_|_|  \__,_|_.__/ \___/|_| |_|
-A passionate tech enthusiast
+
+  
+<div align="center">
+<h3>
+    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Animated cartoon coder person" />
+  </h3>
+</div>
 
 
 ## 🌐 Socials:
@@ -23,6 +22,7 @@ A passionate tech enthusiast
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 

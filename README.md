@@ -1,81 +1,49 @@
-# 👋 Hello there! I'm Sourabh Dhara! ✨
-<div align="center">
-  <h1>👋 Hello there! I'm Sourabh Dhara! ✨</h1>
-  <h3>🚀 B.Tech Student | 💻 Aspiring Developer | 🌱 Lifelong Learner</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+innovative+projects...;Diving+deep+into+Python+%26+C...;Always+learning+new+tech!" alt="Typing SVG" />
-</div>
+# Sourabh Dhara
 
-A passionate B.Tech student on an exciting journey through the world of technology. 🚀 I'm constantly learning, building, and exploring new horizons in software development. Currently, I'm diving deep into Python, expanding my skills, and eager to contribute to innovative projects. Let's build something amazing together!
+**Software Developer | Python & C Enthusiast | B.Tech Student**
+
+Building robust applications and constantly exploring new horizons in software development. Passionate about writing clean, maintainable code and solving complex problems.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a passionate **B.Tech student** on an exciting journey through the world of technology.
-- 💡 I'm constantly learning, building, and exploring new horizons in software development.
-- 🐍 Currently, I'm diving deep into **Python** and **C**, expanding my skills to build robust applications.
-- 🤝 I'm always open to new ideas, discussions, and collaborations. Let's build something amazing together!
+- 🎓 Currently pursuing my B.Tech, with a strong focus on software engineering principles.
+- 💻 Specialized in **Python** and **C**, with a growing interest in backend development and problem-solving.
+- 🌱 Constantly learning and building. Eager to contribute to modern web technologies and open-source projects.
+- 🤝 Always open to discussing system architecture, software design, or interesting collaborative opportunities.
 
-## 🔗 Let's Connect & Collaborate!
+## 🛠️ Technical Arsenal
 
-I'm always open to new ideas, discussions, and collaborations. Whether it's a project, a coding challenge, or just a chat about tech, feel free to reach out on any of my platforms below! 👇
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,c,wordpress&theme=dark" alt="Tech Stack" />
+  </a>
+</div>
 
-<div align="center">
-  <a href="https://instagram.com/Sourabh_dhara"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="35" /></a>
+## 🚀 Featured Projects
+
+*(Replace this section with 2-3 of your best repositories)*
+- **[Project Name 1](link-to-your-repo)** - A brief 1-2 sentence description of what the project does, the technical stack used, and the problem it solves.
+- **[Project Name 2](link-to-your-repo)** - A brief 1-2 sentence description of what the project does, the technical stack used, and the problem it solves.
+
+## 📈 GitHub Analytics
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sourabhdhara&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="192" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourabhdhara&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact" alt="Top Languages" height="192" />
+</div>
+
+##  Get in Touch
+
+<div align="left">
   <a href="https://linkedin.com/in/sourabh-dhara-214700302"><img src="https://img.icons8.com/fluent/48/000000/linkedin-2.png" alt="LinkedIn" width="35" /></a>
   <a href="https://youtube.com/@techy.sourabh"><img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" alt="YouTube" width="35" /></a>
   <a href="mailto:sourabhdhara2020@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="Email" width="35" /></a>
 </div>
 
-## 💻 My Evolving Tech Toolkit 🛠️
-
-As a student, I'm continuously expanding my technical arsenal. Here are some of the technologies I'm currently learning and working with. My toolkit is always growing!
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,c,wordpress&theme=dark" alt="My Skills" />
-  </a>
-</div>
-
-## 📊 My GitHub Journey So Far 📈
-
-Take a peek at my progress and contributions on GitHub. Every commit is a step forward!
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sourabhdhara&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourabhdhara&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourabhdhara&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact" alt="Top Languages" />
-</div>
-
-## 🏆 Achievements & Milestones
-
-Proud of these little trophies marking my journey and progress in the coding world! Each one tells a story.
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sourabhdhara&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
-</div>
-
-## 💡 Daily Dose of Inspiration
-
-Need a moment of reflection or a fresh perspective? Here's a random dev quote for you! ✨ **Refresh the page for a new thought!** ✨
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</div>
-
-## 🚀 My Top Contributions
-
-Check out some of the repositories where I've been most active and poured my learning into. Your feedback is always welcome!
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Sourabhdhara&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributions" />
-</div>
-
----
-
-<div align="center">
-  <h3>👁️ Profile Views</h3>
+<!-- Profile Views -->
+<div align="left">
+  <br>
   <img src="https://visitcount.itsvg.in/api?id=Sourabhdhara&icon=0&color=0" alt="Profile Views" />
 </div>

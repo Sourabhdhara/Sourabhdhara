@@ -1,43 +1,84 @@
-# 💫 About Me:
-🚀 **Ambitious Computer Science student** with a strong foundation in **C** and **Python**. <br>
-🤖 Proficient at leveraging **AI-powered development tools** to architect, build, and deploy functional web and Android apps. <br>
-🔥 Passionate about solving **complex problems** and eager to contribute to collaborative, fast-paced development teams.
+<div align="center">
+  
+# ✨ Sourabh Dhara ✨
 
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=500&height=30&lines=Ambitious+CS+Student;Python+%7C+C+%7C+Flask+%7C+HTML;AI-Powered+Developer;Problem+Solving+Addict" alt="Typing Animation" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sourabh_dhara)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sourabh-dhara-214700302)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@sdtechdhara)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sourabhdhara2020@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sourabhdhara)
+</div>
 
-# 💻 Tech Stack (Iconic & Best):
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 💫 About Me
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sourabhdhara&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sourabhdhara&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sourabhdhara&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies (Radical Edition)
-![](https://github-profile-trophy.vercel.app/?username=Sourabhdhara&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote (Iconic)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sourabhdhara&limit=5&theme=radical&combine_all_yearly_contributions=true)
+🚀 **Ambitious Computer Science student** with a strong foundation in **C**, **Python**, **Flask**, and **HTML**.<br>
+🤖 Proficient at leveraging **AI-powered development tools** to architect, build, and deploy functional web and Android applications.<br>
+🔥 Passionate about solving **complex problems** and eager to contribute to collaborative, fast-paced development teams.<br>
+⚡ **Fun Fact:** I speak binary... and sometimes Python 🐍
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sourabhdhara&icon=5&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly crafted with iconic tech vibes -->
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://instagram.com/sourabh_dhara"><img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black&color=FF0069"/></a>
+  <a href="https://linkedin.com/in/sourabh-dhara-214700302"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=0A66C2"/></a>
+  <a href="https://youtube.com/@sdtechdhara"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black&color=FF0000"/></a>
+  <a href="mailto:sourabhdhara2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&color=EA4335"/></a>
+  <a href="https://github.com/Sourabhdhara"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=181717"/></a>
+</p>
+
+---
+
+## 💻 My Iconic Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,c,html,css,js,git,github,vscode,linux&perline=5&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="60" height="60" style="background:white; border-radius:10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics (Animated Stats)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sourabhdhara&show_icons=true&count_private=true&hide_border=true&title_color=00FFAA&icon_color=00FFAA&text_color=FFFFFF&bg_color=0D1117" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourabhdhara&hide_border=true&stroke=00FFAA&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&background=0D1117" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourabhdhara&layout=compact&hide_border=true&title_color=00FFAA&text_color=FFFFFF&bg_color=0D1117" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sourabhdhara&theme=darkhub&no-frame=true&row=1&column=4&margin-w=15" width="49%" />
+</div>
+
+---
+
+## 🎯 My Coding Journey
+
+```python
+class SourabhDhara:
+    def __init__(self):
+        self.name = "Sourabh Dhara"
+        self.role = "CS Student | Developer"
+        self.skills = {
+            "languages": ["Python", "C", "JavaScript", "HTML/CSS"],
+            "frameworks": ["Flask", "React"],
+            "tools": ["Git", "VS Code", "Linux"]
+        }
+        self.current_focus = "Building full-stack web apps with Flask"
+        self.goal = "Solve real-world problems with clean code"
+    
+    def daily_mantra(self):
+        return "Code. Learn. Repeat. 🚀"
+
+me = SourabhDhara()
+print(me.daily_mantra())

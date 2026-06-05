@@ -21,10 +21,10 @@ A passionate B.Tech student on an exciting journey through the world of technolo
 I'm always open to new ideas, discussions, and collaborations. Whether it's a project, a coding challenge, or just a chat about tech, feel free to reach out on any of my platforms below! 👇
 
 <div align="center">
-  <a href="https://instagram.com/Sourabh_dhara"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://linkedin.com/in/sourabh-dhara-214700302"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://youtube.com/@techy.sourabh"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/></a>
-  <a href="mailto:sourabhdhara2020@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://instagram.com/Sourabh_dhara"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
+  <a href="https://linkedin.com/in/sourabh-dhara-214700302"><img src="https://img.icons8.com/fluent/48/000000/linkedin-2.png" alt="LinkedIn"/></a>
+  <a href="https://youtube.com/@techy.sourabh"><img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" alt="YouTube"/></a>
+  <a href="mailto:sourabhdhara2020@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="Email"/></a>
 </div>
 
 ## 💻 My Evolving Tech Toolkit 🛠️
@@ -42,11 +42,11 @@ As a student, I'm continuously expanding my technical arsenal. Here are some of 
 Take a peek at my progress and contributions on GitHub. Every commit is a step forward!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sourabhdhara&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sourabhdhara&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Sourabhdhara&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourabhdhara&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourabhdhara&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourabhdhara&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🏆 Achievements & Milestones

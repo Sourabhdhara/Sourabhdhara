@@ -21,10 +21,10 @@ A passionate B.Tech student on an exciting journey through the world of technolo
 I'm always open to new ideas, discussions, and collaborations. Whether it's a project, a coding challenge, or just a chat about tech, feel free to reach out on any of my platforms below! 👇
 
 <div align="center">
-  <a href="https://instagram.com/Sourabh_dhara"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
-  <a href="https://linkedin.com/in/sourabh-dhara-214700302"><img src="https://img.icons8.com/fluent/48/000000/linkedin-2.png" alt="LinkedIn"/></a>
-  <a href="https://youtube.com/@techy.sourabh"><img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" alt="YouTube"/></a>
-  <a href="mailto:sourabhdhara2020@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="Email"/></a>
+  <a href="https://instagram.com/Sourabh_dhara"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="35" /></a>
+  <a href="https://linkedin.com/in/sourabh-dhara-214700302"><img src="https://img.icons8.com/fluent/48/000000/linkedin-2.png" alt="LinkedIn" width="35" /></a>
+  <a href="https://youtube.com/@techy.sourabh"><img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" alt="YouTube" width="35" /></a>
+  <a href="mailto:sourabhdhara2020@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="Email" width="35" /></a>
 </div>
 
 ## 💻 My Evolving Tech Toolkit 🛠️

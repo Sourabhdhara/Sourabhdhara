@@ -2,7 +2,7 @@
   
 <div align="center">
 <h3>
-    <img src="https://drive.google.com/file/d/1BtBmyRhLZphlHRehOoHlJwvjPlgVak-s/view?usp=sharing" alt="Animated cartoon coder person" />
+    <img src="sd.jpg" alt="Animated cartoon coder person" />
   </h3>
 </div>
 

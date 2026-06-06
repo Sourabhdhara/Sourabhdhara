@@ -2,7 +2,7 @@
   
 <div align="center">
 <h3>
-    <img src="sd.jpg" alt="Animated cartoon coder person" />
+    <img src="" alt="Animated cartoon coder person" />
   </h3>
 </div>
 

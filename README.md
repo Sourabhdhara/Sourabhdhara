@@ -1,24 +1,12 @@
 
   
-<!--<div align="center">
+<div align="center">
 <h3>
     <img src="img.png" alt="Agent-X" />
   </h3>
 </div>
--->
-<!-- Banner Section -->
-<p align="center">
-  <!-- Left Anchor -->
-  <img src="https://img.shields.io/badge/-00599C?style=flat&logo=github&logoColor=white" alt="GitHub Logo" />
-  
-  <!-- Center Identity -->
-  <div align="center">
-  <h1 style="color:#00BFFF;">Sourabh Dhara</h1>
-  <p><em>Systems Programmer | AI Explorer | Engineer</em></p>
-  
-  <!-- Right Anchor -->
-  <p style="color:#00BFFF;">Engineering Ideas into Code</p>
-</p>
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sourabh_dhara) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sourabh-dhara-214700302) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@techy.sourabh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sourabhdhara2020@gmail.com) 

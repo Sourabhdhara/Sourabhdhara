@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/-00599C?style=flat&logo=github&logoColor=white" alt="GitHub Logo" />
   
   <!-- Center Identity -->
+  <div align="center">
   <h1 style="color:#00BFFF;">Sourabh Dhara</h1>
   <p><em>Systems Programmer | AI Explorer | Engineer</em></p>
   
